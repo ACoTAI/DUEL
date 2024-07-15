@@ -1,7 +1,7 @@
 # DUEL
 This is the implementation of the paper "DUEL: Depth visUal Ego-motion Learning for Autonomous Robot Obstacle Avoidance"
 
-# Requirements
+### Requirements
 The codebase is implemented in Python2.7 package versions used for development are just below.
 ```
 Ubuntu               18.04
@@ -13,7 +13,7 @@ numpy                1.16.6
 protobuf             3.17.2
 rospy                1.14.11
 
-# Citing DUEL
+### Citing DUEL
 If you find this codebase useful in your research, please consider citing:
 @article{wang2024duel,
   title={DUEL: Depth visUal Ego-motion Learning for autonomous robot obstacle avoidance},
