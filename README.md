@@ -12,9 +12,10 @@ OpenCV               3.0.2.1
 numpy                1.16.6
 protobuf             3.17.2
 rospy                1.14.11
-
+```
 ### Citing DUEL
 If you find this codebase useful in your research, please consider citing:
+```
 @article{wang2024duel,
   title={DUEL: Depth visUal Ego-motion Learning for autonomous robot obstacle avoidance},
   author={Wang, Naiyao and Zhang, Bo and Chi, Haixu and Wang, Hua and McLoone, Se{\'a}n and Liu, Hongbo},
@@ -25,3 +26,4 @@ If you find this codebase useful in your research, please consider citing:
   year={2024},
   publisher={SAGE Publications Sage UK: London, England}
 }
+```
